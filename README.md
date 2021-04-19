@@ -1,9 +1,37 @@
-# [Kyle_Lee_Portfolio](https://github.com/kylelee2062/Kyle_Lee_Portfolio.git)
+## Welcome to GitHub Pages
 
-## Bio
-Hello! I'm currently a second-year student at Irvine Valley College transferring this fall to the University of California, Irvine to complete my Bachelor's in Data Science and Economics.
+You can use the [editor on GitHub](https://github.com/kylelee2062/kylelee2062/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-## Contact
-[Email](kylelee2062@gmail.com)
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[LinkedIn](https://www.linkedin.com/in/kyle-lee-47b6761a8/)
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kylelee2062/kylelee2062/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
