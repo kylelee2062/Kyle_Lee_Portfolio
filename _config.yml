@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: KYLE LEE
+logo: <img src="/images/unnamed.jpg" width="562.5" height="750">
+show_downloads: true
+google_analytics:
