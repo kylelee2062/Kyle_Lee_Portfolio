@@ -1,5 +1,7 @@
 ![](/images/unnamed.jpg)
 
+<img src="/images/unnamed.jpg" width="100" height="100">
+
 # [Kyle_Lee_Portfolio](https://github.com/kylelee2062/Kyle_Lee_Portfolio.git)
 
 
