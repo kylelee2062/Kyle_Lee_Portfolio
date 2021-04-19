@@ -1,4 +1,4 @@
-# Kyle_Lee_Portfolio
+# [Kyle_Lee_Portfolio](https://github.com/kylelee2062/Kyle_Lee_Portfolio.git)
 
 ## Bio
 Hello! I'm currently a second-year student at Irvine Valley College transferring this fall to the University of California, Irvine to complete my Bachelor's in Data Science and Economics.
